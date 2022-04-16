@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  width:100%;
+  text-align:center;
+}
+
+ header a {
+ padding: 10px;
+ background: rgb(204, 109, 61);  
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+#featured-property  {
+    text-align:center;
+    padding:100px; 
+
+}
+
+#details div {
+float:left;
+
+ 
+}
+
+div {
+  background-color: rgb(201, 80, 80);
+  text-align: center;
+  width:25%;
+}
